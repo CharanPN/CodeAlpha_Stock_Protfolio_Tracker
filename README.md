@@ -70,6 +70,6 @@ This project was created to practice **Python fundamentals**, including:
 - File handling
 - Building small real-world applications
 
-## 👨 Author
+##  Author
 
 **P N Charan** 
