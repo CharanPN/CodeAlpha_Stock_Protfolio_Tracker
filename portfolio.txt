@@ -1,0 +1,18 @@
+Portfolio
+
+Stock name - GOOG
+Stock price - $150
+Stock quantity - 4
+Investment - $600
+
+Stock name - NFLX
+Stock price - $400
+Stock quantity - 15
+Investment - $6000
+
+Stock name - NVDA
+Stock price - $450
+Stock quantity - 10
+Investment - $4500
+
+Total investment - $11100
